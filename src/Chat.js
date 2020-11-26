@@ -1,12 +1,26 @@
-import React from 'react'
-import { useParams } from 'react-router'
-import './Chat.css'
+import React from 'react';
+import { useParams } from 'react-router';
+import './Chat.css';
+import StarBorderOutlinedIcon from '@material-ui/icons/StarBorderOutlined';
+import InfoOutlinedIcon from '@material-ui/icons/InfoOutlined';
 
 function Chat() {
     const {roomId} = useParams();
     return (
         <div className="chat">
-            <h2>You are in the room {roomId} room</h2>
+            <div className="chat__header">
+                <div className="chat__headerLeft">
+                    <h4 className="chat__channelName">
+                        <strong>#General</strong>
+                        <StarBorderOutlinedIcon/>
+                    </h4>
+                </div>
+                <div className="chat__headerRight">
+                    <p>
+                        <InfoOutlinedIcon/> Details
+                    </p>
+                </div>
+            </div>
         </div>
     )
 }
