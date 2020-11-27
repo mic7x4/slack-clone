@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/slack-clone/static/css/main.aad4a8b4.chunk.css",
+    "main.js": "/slack-clone/static/js/main.442f5a85.chunk.js",
+    "main.js.map": "/slack-clone/static/js/main.442f5a85.chunk.js.map",
+    "runtime-main.js": "/slack-clone/static/js/runtime-main.bc2f2c4e.js",
+    "runtime-main.js.map": "/slack-clone/static/js/runtime-main.bc2f2c4e.js.map",
+    "static/js/2.732c7eb9.chunk.js": "/slack-clone/static/js/2.732c7eb9.chunk.js",
+    "static/js/2.732c7eb9.chunk.js.map": "/slack-clone/static/js/2.732c7eb9.chunk.js.map",
+    "static/js/3.1a7f24cf.chunk.js": "/slack-clone/static/js/3.1a7f24cf.chunk.js",
+    "static/js/3.1a7f24cf.chunk.js.map": "/slack-clone/static/js/3.1a7f24cf.chunk.js.map",
+    "index.html": "/slack-clone/index.html",
+    "static/css/main.aad4a8b4.chunk.css.map": "/slack-clone/static/css/main.aad4a8b4.chunk.css.map",
+    "static/js/2.732c7eb9.chunk.js.LICENSE.txt": "/slack-clone/static/js/2.732c7eb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc2f2c4e.js",
+    "static/js/2.732c7eb9.chunk.js",
+    "static/css/main.aad4a8b4.chunk.css",
+    "static/js/main.442f5a85.chunk.js"
+  ]
+}
